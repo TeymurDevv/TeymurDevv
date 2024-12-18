@@ -52,6 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TeymurDevv/TeymurDevv/output/snake.svg" alt="Snake animation" />
 
 ###
